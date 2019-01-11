@@ -1,5 +1,4 @@
-
-# [This is Title of My Post]({% post_url 2010-07-21-firstpost %})
+# First Week Project Idea And Future Perspective 
 
 Hi I am Sagar Kalyan.
 This is my first blog on my project A.
