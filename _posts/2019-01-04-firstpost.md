@@ -1,3 +1,4 @@
-# [My First Blog About My Project On Python]({% post_url 2010-07-21-name-of-post %})
+# [My First Blog About My Project On Python]({% post_url 2019-01-10-my-first-blog-about-my-project-on-python %})
 
-Some content for the post.
+Hi I am Sagar Kalyan.
+This is my first blog on my project A.
