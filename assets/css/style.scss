@@ -1,6 +1,9 @@
 ---
 ---
 @import "{{ site.theme }}";
-h1 a{
+.page-header h1 a{
 color:lightyellow;
+}
+.main-content h1 a{
+color:#000;
 }
