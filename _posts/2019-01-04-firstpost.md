@@ -1,5 +1,4 @@
-# First Week Project Idea And Future Perspective 
-
+# [First Week Project Idea And Future Perspective]({% post_url 2019-01-04-firstpost %})
 Hi I am Sagar Kalyan.
 This is my first blog on my project A.
 
