@@ -10,7 +10,7 @@ I have chosen this topic of my best interest because of several reasons:
 I have good knowledge in PHP and MySQL, and therefore it would be more better for me if i learn to build some new application with Django framework. As lots of popular companies uses this Application framework Programming based on Python like Instagram, Youtube, Spotify and many more.
 3. It's easier and faster (Simple Syntax Used). Involves less code, less time and money. Therefore, It's also communicative code.
 
-The main reason is to build an effective web application for my personal blogging platform and creating an e-commerce system for selling ebooks and may be even many products. These days it's great to be exposed on internet to make yourself exist on digital platform.
+The main reason is to build an effective web application for my personal blogging platform creating blog posts dynamic. additionally if possible creating an e-commerce system for selling ebooks and may be even many products. These days it's great to be exposed on internet to make yourself exist on digital platform.
 I have recently started my own youtube channel as well. Initially, It will also help in getting a job based on this profile. Right now, my focus is on learning and developing skills and gaining confidence to make myself better, So that i could also inspire many people and share whatever i have learnt in life.
 
 This programming language will support completely my project as it's main feature is to build dynamic web applications and i have to develop the same as lots of popular sites are build on this platform (for eg Youtube). It's an open source platform to start an individual project to build up a scalable system.
